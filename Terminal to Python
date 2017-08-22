@@ -1,2 +1,4 @@
+Windows and MacBook: 
+To begin using an IPython Notebook, you need to launch a command prompt.  In Windows, you can click on 'Start' and then type into the text box 'cmd' and press enter, to launch a shell window.  On a mac, you can launch the terminal app.  Once you have a command prompt, navigate (change directory) to whatever directory you want to work in. If you have a place you want to store IPython notebooks, cd to that location, and type:\n"
 jacintambilo:~ mwikali$ cd documents "change directory"
 jacintambilo:documents mwikali$ jupyter notebook/ n "this opens a new notebook to begin coding"
