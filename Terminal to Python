@@ -1,0 +1,2 @@
+jacintambilo:~ mwikali$ cd documents "change directory"
+jacintambilo:documents mwikali$ jupyter notebook/ n "this opens a new notebook to begin coding"
